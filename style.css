@@ -5,6 +5,7 @@
 body{
     margin: 0 auto;
     font-family: 'Raleway', sans-serif;
+    -webkit-font-family: 'Raleway', sans-serif;
     color: #6c7279;
     font-size: 14px;
     max-width: 2000px;
@@ -160,6 +161,8 @@ p{
 
 .intro_title{
     font-family: 'Open Sans', sans-serif;
+    -webkit-font-family: 'Open Sans', sans-serif;
+    -webkit-font-weight: 700;
     font-weight: 700;
     font-size: 65px;
     color: white;
